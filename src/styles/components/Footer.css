@@ -1,0 +1,22 @@
+
+footer{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    position: sticky;
+    top: 100%;
+    border-top: 2px solid black;
+}
+
+.copy-rights{
+    font-size: 0.8rem;
+}
+
+@media screen  and (max-width:700px){
+    
+    .copy-rights{
+        font-size: 0.5rem;
+    }
+    
+}

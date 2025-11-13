@@ -1,0 +1,35 @@
+.about-container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+    padding: 0 8rem 0 8rem;
+    align-items: center;
+}
+
+.about-header{
+    color: #1f261a; 
+    font-size: 2.5rem;
+    margin-top: 2rem;
+    font-weight: bold;
+}
+
+@media screen and (max-width:850px) {
+    .about-container{
+        padding: 0 4rem 0 4rem;
+    }
+    .about-header{
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (max-width:800px) {
+    .about-container{
+        padding: 0 2rem 0 2rem;
+    }
+    .about-header{
+        font-size: 1.2rem;
+    }
+}
+
+
+
