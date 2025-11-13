@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/aditya-prajapati-portfolio/static/css/main.2b87b939.css",
+    "main.js": "/aditya-prajapati-portfolio/static/js/main.732eac01.js",
+    "static/js/796.c570ecc9.chunk.js": "/aditya-prajapati-portfolio/static/js/796.c570ecc9.chunk.js",
+    "static/js/165.1349b0cf.chunk.js": "/aditya-prajapati-portfolio/static/js/165.1349b0cf.chunk.js",
+    "static/js/453.e09ea48f.chunk.js": "/aditya-prajapati-portfolio/static/js/453.e09ea48f.chunk.js",
+    "index.html": "/aditya-prajapati-portfolio/index.html",
+    "main.2b87b939.css.map": "/aditya-prajapati-portfolio/static/css/main.2b87b939.css.map",
+    "main.732eac01.js.map": "/aditya-prajapati-portfolio/static/js/main.732eac01.js.map",
+    "796.c570ecc9.chunk.js.map": "/aditya-prajapati-portfolio/static/js/796.c570ecc9.chunk.js.map",
+    "165.1349b0cf.chunk.js.map": "/aditya-prajapati-portfolio/static/js/165.1349b0cf.chunk.js.map",
+    "453.e09ea48f.chunk.js.map": "/aditya-prajapati-portfolio/static/js/453.e09ea48f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b87b939.css",
+    "static/js/main.732eac01.js"
+  ]
+}
